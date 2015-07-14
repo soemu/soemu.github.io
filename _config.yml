@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://soemu.github.io
+title: Awesome
+email: jennifer@kandu.com
+author: soemu
+description: My awesome new site
+paginate: 3
+google_analytics: 
